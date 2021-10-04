@@ -12,7 +12,13 @@ package ooc.week3;
 public class NewClass {
     
     public NewClass(){
-        System.out.println("This is a new constructor");
+        
+        
+        
+        
+        
+        
+        System.out.println("improved version of a new class");
     }
     
 }
