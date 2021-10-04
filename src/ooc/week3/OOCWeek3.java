@@ -9,6 +9,11 @@ public class OOCWeek3 {
         // TODO code application logic here
         
         System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
+        System.out.println("This is my first repository");
         
     }
     
